@@ -19,7 +19,7 @@ I enjoy solving technical problems, learning how systems work, and improving my 
 
 I've created a hands-on Help Desk Ticketing Lab where I practice troubleshooting simulated IT support issues, documenting my findings, identifying root causes, and verifying solutions.
 
-👉 **[View My Help Desk Ticketing Lab](https://github.com/YOUR-USERNAME/helpdesk-ticketing-lab)**
+👉 **[View My Help Desk Ticketing Lab](https://github.com/beanmalaki68-hub/beanmalaki68/blob/main/tickets/001-no-internet.md)**
 
 ## 🎯 Career Goal
 
