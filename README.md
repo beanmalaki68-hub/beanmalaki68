@@ -21,6 +21,8 @@ I've created a hands-on Help Desk Ticketing Lab where I practice troubleshooting
 
 👉 **[Lab 1](https://github.com/beanmalaki68-hub/beanmalaki68/blob/main/tickets/001-no-internet.md)**
 
+👉 **[Lab 2](https://github.com/beanmalaki68-hub/beanmalaki68/blob/main/tickets/001-no-internet.md)**
+
 ## 🎯 Career Goal
 
 My goal is to continue developing my technical skills, gain real-world IT experience, and build toward a career in cybersecurity.
